@@ -1,0 +1,3 @@
+Checking out how to commit
+
+This should trigger a merge function...

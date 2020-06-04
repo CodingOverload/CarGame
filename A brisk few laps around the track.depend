@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1559902581 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\car.c
+	"car.h"
+	<math.h>
+	"maths.h"
+	<stdio.h>
+
+1559902655 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\collider.c
+	"collider.h"
+	"maths.h"
+	"vector.h"
+	<float.h>
+
+1559822610 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\offfile.c
+	"offfile.h"
+	"vector.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1558924771 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\offfile.h
+	"vector.h"
+	<gl/freeglut.h>
+
+1558847170 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\vector.h
+	<gl/freeglut.h>
+	<math.h>
+
+1559822621 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\vector.c
+	"vector.h"
+	<math.h>
+
+1559825137 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\main.c
+	<gl/freeglut.h>
+	<sys/time.h>
+	"stdio.h"
+	"car.h"
+	"offfile.h"
+	<stdint.h>
+	"qdbmp.h"
+
+1559647609 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\car.h
+	"vector.h"
+
+1558091245 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\maths.c
+	"maths.h"
+
+1558091224 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\maths.h
+
+1558091338 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\collider.h
+	"vector.h"
+
+1559477502 source:c:\users\ryand\desktop\project\car.c
+	"car.h"
+	<math.h>
+	"maths.h"
+	<stdio.h>
+
+1559552012 c:\users\ryand\desktop\project\car.h
+	"vector.h"
+
+1559451178 c:\users\ryand\desktop\project\vector.h
+	<gl/freeglut.h>
+	<math.h>
+
+1559451178 c:\users\ryand\desktop\project\maths.h
+
+1559451178 source:c:\users\ryand\desktop\project\collider.c
+	"collider.h"
+	"maths.h"
+	"vector.h"
+	<float.h>
+
+1559451178 c:\users\ryand\desktop\project\collider.h
+	"vector.h"
+
+1559451178 source:c:\users\ryand\desktop\project\maths.c
+	"maths.h"
+
+1559451178 source:c:\users\ryand\desktop\project\offfile.c
+	"offfile.h"
+	"vector.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1559451178 c:\users\ryand\desktop\project\offfile.h
+	"vector.h"
+	<gl/freeglut.h>
+
+1559451178 source:c:\users\ryand\desktop\project\vector.c
+	"vector.h"
+	<math.h>
+
+1559821436 source:c:\users\ryand\desktop\project\main.c
+	<gl/freeglut.h>
+	<sys/time.h>
+	"stdio.h"
+	"car.h"
+	"offfile.h"
+	<stdint.h>
+	"qdbmp.h"
+
+1559745502 source:d:\google drive\education\university science degree computer science\ict289\assignment\ict289\qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1559745501 d:\google drive\education\university science degree computer science\ict289\assignment\ict289\qdbmp.h
+	<stdio.h>
+
+1559747411 source:c:\users\ryand\desktop\project\qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1559747411 c:\users\ryand\desktop\project\qdbmp.h
+	<stdio.h>
+
+1559907062 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\car.c
+	"car.h"
+	<math.h>
+	"maths.h"
+	<stdio.h>
+
+1559552014 e:\uni\year 2\semester 1\ict 289\assignment 2\project\car.h
+	"vector.h"
+
+1559451180 e:\uni\year 2\semester 1\ict 289\assignment 2\project\vector.h
+	<gl/freeglut.h>
+	<math.h>
+
+1559451180 e:\uni\year 2\semester 1\ict 289\assignment 2\project\maths.h
+
+1559907062 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\collider.c
+	"collider.h"
+	"maths.h"
+	"vector.h"
+	<float.h>
+
+1559451180 e:\uni\year 2\semester 1\ict 289\assignment 2\project\collider.h
+	"vector.h"
+
+1559907062 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\main.c
+	<gl/freeglut.h>
+	<sys/time.h>
+	"stdio.h"
+	"car.h"
+	"offfile.h"
+	<stdint.h>
+	"qdbmp.h"
+
+1559451180 e:\uni\year 2\semester 1\ict 289\assignment 2\project\offfile.h
+	"vector.h"
+	<gl/freeglut.h>
+
+1559747412 e:\uni\year 2\semester 1\ict 289\assignment 2\project\qdbmp.h
+	<stdio.h>
+
+1559451180 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\maths.c
+	"maths.h"
+
+1559451180 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\offfile.c
+	"offfile.h"
+	"vector.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1559747412 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1559907062 source:e:\uni\year 2\semester 1\ict 289\assignment 2\project\vector.c
+	"vector.h"
+	<math.h>
+
